@@ -3,7 +3,10 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+    <meta name="theme-color" content="#4c6e97">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Nursing Knowledge Quiz</title>
     <style>
         :root {
@@ -16,6 +19,7 @@
             --correct-color: #48bb78;
             --incorrect-color: #f56565;
             --neutral-color: #a0aec0;
+            --window-height: 100vh;
         }
 
         /* Dark theme */
@@ -38,25 +42,34 @@
             padding: 0;
             display: flex;
             justify-content: center;
-            min-height: 100vh;
+            min-height: var(--window-height);
             transition: background-color 0.3s ease, color 0.3s ease;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        /* Fix for iOS Safari's 100vh issue */
+        @supports (-webkit-touch-callout: none) {
+            body {
+                min-height: -webkit-fill-available;
+            }
         }
 
         .container {
-            width: 100%;
+            width: 95%;
             max-width: 800px;
-            padding: 2rem;
+            padding: 1rem;
+            margin: 0 auto;
         }
 
         .theme-switch {
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
             display: flex;
             align-items: center;
             gap: 0.5rem;
             color: var(--text-color);
             z-index: 100;
+            width: fit-content;
+            margin: 1rem 0 1rem auto;
         }
 
         .theme-toggle {
@@ -102,6 +115,11 @@
 
         input:checked+.slider:before {
             transform: translateX(26px);
+        }
+
+        /* Improve dark mode toggle visibility */
+        [data-theme="dark"] .slider:before {
+            background-color: #f0f0f0;
         }
 
         .quiz-header {
@@ -167,11 +185,14 @@
         }
 
         .option {
-            padding: 1rem;
+            padding: 1rem 1.25rem;
+            min-height: 44px;
             border: 2px solid var(--neutral-color);
             border-radius: 5px;
             cursor: pointer;
             transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
         }
 
         .option:hover {
@@ -199,6 +220,7 @@
             padding: 1rem;
             border-radius: 5px;
             display: none;
+            word-break: break-word;
         }
 
         .feedback.correct {
@@ -221,7 +243,11 @@
             font-weight: 600;
             cursor: pointer;
             transition: background-color 0.3s ease;
-            margin-top: 1.5rem;
+            margin: 1.5rem auto 0;
+            min-height: 44px;
+            display: block;
+            width: 100%;
+            max-width: 300px;
         }
 
         .btn:hover {
@@ -277,6 +303,11 @@
             font-size: 0.9rem;
             cursor: pointer;
             transition: background-color 0.3s ease;
+            min-height: 44px;
+            width: 100%;
+            max-width: 200px;
+            margin: 0 auto;
+            display: block;
         }
 
         .reset-btn:hover {
@@ -313,38 +344,151 @@
             transition: width 0.3s ease;
         }
 
+        .touch-active {
+            opacity: 0.7;
+            transform: scale(0.98);
+            transition: all 0.1s ease;
+        }
+
+        /* Media query for tablets */
         @media (max-width: 768px) {
             .container {
-                padding: 1rem;
+                padding: 0.75rem;
             }
-
+            
             .quiz-header {
                 padding: 1rem;
             }
-
+            
             .quiz-title {
                 font-size: 1.5rem;
             }
-
+            
             .stats-container {
                 flex-direction: column;
                 gap: 0.5rem;
+            }
+            
+            .quiz-card {
+                padding: 1.5rem;
+            }
+            
+            .theme-toggle {
+                width: 50px;
+                height: 28px;
+            }
+            
+            .slider:before {
+                height: 20px;
+                width: 20px;
+            }
+        }
+
+        /* Media query for mobile phones */
+        @media (max-width: 576px) {
+            body {
+                font-size: 15px;
+            }
+            
+            .container {
+                width: 100%;
+                padding: 0.5rem;
+            }
+            
+            .quiz-header {
+                padding: 0.75rem;
+                margin-bottom: 1rem;
+            }
+            
+            .quiz-title {
+                font-size: 1.3rem;
+            }
+            
+            .stat {
+                font-size: 0.9rem;
+                padding: 0.4rem 0.8rem;
+            }
+            
+            .rank-badge {
+                font-size: 0.9rem;
+                padding: 0.4rem 0.8rem;
+            }
+            
+            .quiz-card {
+                padding: 1rem;
+                margin-bottom: 1rem;
+            }
+            
+            .question {
+                font-size: 1.1rem;
+                margin-bottom: 1rem;
+            }
+            
+            .options {
+                gap: 0.75rem;
+            }
+            
+            .option {
+                padding: 0.8rem 1rem;
+            }
+            
+            .feedback {
+                margin-top: 1rem;
+                padding: 0.75rem;
+                font-size: 0.9rem;
+            }
+            
+            .certification-info {
+                padding: 1rem;
+                margin-top: 1rem;
+            }
+            
+            .certification-info h2 {
+                font-size: 1.2rem;
+            }
+        }
+
+        /* Media query for very small devices */
+        @media (max-width: 360px) {
+            body {
+                font-size: 14px;
+            }
+            
+            .quiz-title {
+                font-size: 1.2rem;
+            }
+            
+            .stat, .rank-badge {
+                font-size: 0.8rem;
+                padding: 0.3rem 0.6rem;
+            }
+            
+            .quiz-card {
+                padding: 0.75rem;
+            }
+            
+            .question {
+                font-size: 1rem;
+            }
+            
+            .option {
+                padding: 0.7rem 0.8rem;
             }
         }
     </style>
 </head>
 
 <body>
-    <div class="theme-switch">
-        <span>🌞</span>
-        <label class="theme-toggle">
-            <input type="checkbox" id="theme-toggle">
-            <span class="slider"></span>
-        </label>
-        <span>🌙</span>
-    </div>
-
     <div class="container">
+        <div class="theme-switch">
+            <span>🌞</span>
+            <label class="theme-toggle">
+                <input type="checkbox" id="theme-toggle">
+                <span class="slider"></span>
+            </label>
+            <span>🌙</span>
+        </div>
+
         <header class="quiz-header">
             <h1 class="quiz-title">Nursing Knowledge Quiz</h1>
             <p>Test your nursing knowledge with this educational quiz.</p>
@@ -714,10 +858,104 @@
             }
         }
 
+        // Mobile optimization functions
+        
+        // Adjust height for mobile browsers with dynamic address bars
+        function adjustMobileHeight() {
+            // Get window height
+            const windowHeight = window.innerHeight;
+            
+            // Set initial height
+            document.documentElement.style.setProperty('--window-height', `${windowHeight}px`);
+            
+            // Update on resize
+            window.addEventListener('resize', () => {
+                const newWindowHeight = window.innerHeight;
+                document.documentElement.style.setProperty('--window-height', `${newWindowHeight}px`);
+            });
+        }
+
+        // Improve touch response by removing 300ms delay on mobile devices
+        function enableFastClick() {
+            // Simple implementation for most modern browsers
+            const allClickableElements = document.querySelectorAll('.option, .btn, .reset-btn, .theme-toggle');
+            
+            allClickableElements.forEach(element => {
+                element.addEventListener('touchstart', function(e) {
+                    // Add visual feedback for touch
+                    this.classList.add('touch-active');
+                }, { passive: true });
+                
+                element.addEventListener('touchend', function() {
+                    // Remove visual feedback
+                    this.classList.remove('touch-active');
+                });
+            });
+        }
+
+        // Add swipe detection for navigation
+        function enableSwipeNavigation() {
+            let touchStartX = 0;
+            let touchEndX = 0;
+            
+            const quizCard = document.querySelector('.quiz-card');
+            if (quizCard) {
+                quizCard.addEventListener('touchstart', function(e) {
+                    touchStartX = e.changedTouches[0].screenX;
+                }, { passive: true });
+                
+                quizCard.addEventListener('touchend', function(e) {
+                    touchEndX = e.changedTouches[0].screenX;
+                    handleSwipe();
+                }, { passive: true });
+            }
+            
+            function handleSwipe() {
+                const swipeThreshold = 100; // Minimum distance for swipe detection
+                
+                if (touchEndX < touchStartX - swipeThreshold && quizState.answered) {
+                    // Swipe left - next question
+                    nextQuestion();
+                }
+            }
+        }
+
+        // Check if device is mobile
+        function isMobileDevice() {
+            return (window.innerWidth <= 768) || 
+                   (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent));
+        }
+        
+        // Apply mobile-specific adjustments if on mobile
+        function applyMobileAdjustments() {
+            if (isMobileDevice()) {
+                // Increase size of feedback text for readability on mobile
+                if (feedbackElement) {
+                    feedbackElement.style.fontSize = '1.1em';
+                }
+                
+                // Make progress bar slightly thicker for better visibility
+                if (progressBar) {
+                    progressBar.style.height = '12px';
+                }
+            }
+        }
+
+        // Initialize mobile optimizations
+        function initMobileOptimizations() {
+            adjustMobileHeight();
+            enableFastClick();
+            enableSwipeNavigation();
+            applyMobileAdjustments();
+        }
+
         // Event listeners
         nextButton.addEventListener('click', nextQuestion);
         resetButton.addEventListener('click', resetQuiz);
 
+        // Initialize mobile optimizations
+        initMobileOptimizations();
+        
         // Load questions
         loadQuestions();
         
