@@ -1,0 +1,1652 @@
+    [
+        {
+        "category": "Vital Signs & Assessment",
+        "questions": [
+            {
+            "question": "What is the normal resting heart rate for an adult?",
+            "options": [
+                "40-60 beats per minute",
+                "60-100 beats per minute",
+                "100-120 beats per minute",
+                "120-150 beats per minute"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The normal resting heart rate for adults ranges from 60-100 beats per minute. 40-60 is too low and would be considered bradycardia. 100-120 and 120-150 are both elevated and would be considered tachycardia, which is not normal at rest in adults."
+            },
+            {
+            "question": "Which of the following blood pressure readings would be classified as hypertensive according to New Zealand guidelines?",
+            "options": [
+                "115/75 mmHg",
+                "120/80 mmHg",
+                "135/85 mmHg",
+                "145/95 mmHg"
+            ],
+            "correctAnswer": 3,
+            "explanation": "145/95 mmHg is classified as hypertension. In New Zealand, hypertension is generally defined as a blood pressure ≥140/90 mmHg. 115/75 mmHg is considered optimal, 120/80 mmHg is normal, and 135/85 mmHg is high-normal but not yet hypertensive."
+            },
+            {
+            "question": "What is the normal respiratory rate range for an adult at rest?",
+            "options": [
+                "8-10 breaths per minute",
+                "12-20 breaths per minute",
+                "20-30 breaths per minute",
+                "30-40 breaths per minute"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The normal respiratory rate for adults at rest is 12-20 breaths per minute. 8-10 is below normal and could indicate respiratory depression. 20-30 and 30-40 are both elevated rates (tachypnea) that could indicate respiratory distress or other conditions."
+            },
+            {
+            "question": "What is the primary purpose of the Glasgow Coma Scale?",
+            "options": [
+                "To assess risk for falling",
+                "To evaluate nutritional status",
+                "To determine level of consciousness",
+                "To predict mortality in ICU patients"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Glasgow Coma Scale (GCS) is designed to assess level of consciousness through three parameters: eye opening, verbal response, and motor response. It's not designed to assess fall risk (option A), nutritional status (option B), or specifically predict mortality (option D), although a lower GCS score can correlate with poorer outcomes."
+            }
+        ]
+        },
+        {
+        "category": "Ethics & Professional Practice",
+        "questions": [
+            {
+            "question": "Under the New Zealand Nursing Council Code of Conduct, which principle emphasizes that nurses must respect the cultural needs and values of patients?",
+            "options": [
+                "Principle of non-maleficence",
+                "Principle of justice",
+                "Principle of respect for dignity",
+                "Principle of confidentiality"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The principle of respect for dignity emphasizes respect for cultural needs and values. Non-maleficence refers to doing no harm (option A), justice relates to fair treatment and resource allocation (option B), and confidentiality relates to protecting patient information (option D)."
+            },
+            {
+            "question": "According to the Treaty of Waitangi/Te Tiriti o Waitangi, which principle ensures Māori retain authority over their health and wellbeing?",
+            "options": [
+                "Partnership/Te Tiriti Tuarua",
+                "Participation/Te Tiriti Tuatoru",
+                "Protection/Te Tiriti Tuawha",
+                "Tino rangatiratanga/Self-determination"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Tino rangatiratanga (self-determination) ensures Māori retain authority over their health and wellbeing. Partnership (option A) refers to working together with iwi, hapū, whānau and Māori communities. Participation (option B) refers to involving Māori in healthcare service delivery and decision-making. Protection (option C) involves protecting Māori cultural concepts, values and practices."
+            },
+            {
+            "question": "In New Zealand nursing practice, what is the appropriate action if a patient refuses treatment based on cultural or religious beliefs?",
+            "options": [
+                "Override their decision as their health is the priority",
+                "Respect their decision after ensuring they understand the consequences",
+                "Consult with family members to make the decision instead",
+                "Report to hospital administration for further action"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Respecting patient autonomy after ensuring informed consent is the correct approach. Overriding their decision (option A) violates patient autonomy. Consulting with family instead of the patient (option C) is inappropriate when the patient has capacity to make decisions. Reporting to administration (option D) is unnecessary when a competent patient makes an informed choice."
+            },
+            {
+            "question": "Under the Health Information Privacy Code in New Zealand, when can you share a patient's health information without their consent?",
+            "options": [
+                "When a family member requests the information",
+                "When your clinical supervisor asks for it for educational purposes",
+                "When disclosure is necessary to prevent serious harm",
+                "When it would improve the efficiency of care delivery"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Information can be shared without consent when necessary to prevent serious harm. Family requests (option A) don't override privacy without consent. Educational purposes (option B) require de-identification or consent. Efficiency of care (option D) is not a sufficient reason to breach confidentiality without consent."
+            }
+        ]
+        },
+        {
+        "category": "Infection Control & PPE",
+        "questions": [
+            {
+            "question": "What is the correct sequence for donning personal protective equipment (PPE)?",
+            "options": [
+                "Gown, mask, goggles, gloves",
+                "Mask, goggles, gown, gloves",
+                "Gloves, gown, mask, goggles",
+                "Goggles, mask, gloves, gown"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The correct sequence is: mask, goggles, gown, then gloves. This sequence ensures your hands remain clean while handling and adjusting items that touch your face. Putting gloves on first (options C and D) would contaminate other items as you touch them. Putting the gown on first (option A) could contaminate it while adjusting the mask and goggles."
+            },
+            {
+            "question": "Which of the following is the correct sequence for removing (doffing) PPE?",
+            "options": [
+                "Gloves, goggles, gown, mask",
+                "Mask, goggles, gown, gloves",
+                "Gown, mask, goggles, gloves",
+                "Gloves, gown, goggles, mask"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The correct sequence for removing PPE is: gloves, gown, goggles, mask. You remove the most contaminated items (gloves) first, followed by the gown. Eye protection comes off next, and the mask is removed last since it's on your face. Options A, B, and C all involve removing cleaner items before more contaminated ones or removing face protection too early."
+            },
+            {
+            "question": "What type of precautions should be implemented for a patient with active tuberculosis?",
+            "options": [
+                "Standard precautions only",
+                "Contact precautions",
+                "Droplet precautions",
+                "Airborne precautions"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Tuberculosis requires airborne precautions because the bacteria can remain suspended in the air and travel on air currents. Standard precautions alone (option A) are insufficient. Contact precautions (option B) are for organisms transmitted by physical contact. Droplet precautions (option C) are for larger respiratory particles that don't remain suspended in air."
+            },
+            {
+            "question": "When performing hand hygiene with alcohol-based hand rub, how long should the rubbing action last?",
+            "options": [
+                "At least 5 seconds",
+                "At least 10 seconds",
+                "At least 20 seconds",
+                "At least 60 seconds"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hand rubbing with alcohol-based products should last at least 20 seconds to ensure adequate coverage and antimicrobial action. 5 seconds (option A) and 10 seconds (option B) are too short for effective decontamination. 60 seconds (option D) is unnecessarily long for alcohol-based hand rubs and is the recommended time for hand washing with soap and water when hands are visibly soiled."
+            }
+        ]
+        },
+        {
+        "category": "Cardiovascular System",
+        "questions": [
+            {
+            "question": "Which of the following accurately describes the blood flow through the heart?",
+            "options": [
+                "Right atrium → right ventricle → lungs → left atrium → left ventricle → body",
+                "Left atrium → left ventricle → lungs → right atrium → right ventricle → body",
+                "Right atrium → left atrium → right ventricle → left ventricle → lungs → body",
+                "Left ventricle → right ventricle → left atrium → right atrium → body → lungs"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Blood flows from the right atrium to the right ventricle, then to the lungs for oxygenation. It returns to the left atrium, flows to the left ventricle, and is then pumped to the body. Option B reverses the sides. Option C incorrectly shows blood flowing between atria first. Option D completely reverses the sequence."
+            },
+            {
+            "question": "Which of the following is NOT a sign of hypovolemic shock?",
+            "options": [
+                "Decreased blood pressure",
+                "Increased heart rate",
+                "Decreased urine output",
+                "Increased body temperature"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Increased body temperature is not typically associated with hypovolemic shock. In fact, patients in shock often become hypothermic. Decreased blood pressure (option A), increased heart rate (option B), and decreased urine output (option C) are all classic signs of hypovolemic shock as the body tries to compensate for decreased blood volume."
+            },
+            {
+            "question": "Where is the apex of the heart normally located?",
+            "options": [
+                "Fourth intercostal space, right midclavicular line",
+                "Fifth intercostal space, left midclavicular line",
+                "Second intercostal space, left sternal border",
+                "Third intercostal space, right sternal border"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The apex of the heart is normally located at the fifth intercostal space, left midclavicular line. This is where the apical pulse is best auscultated. Option A is on the wrong side of the chest. Option C is where you would auscultate the pulmonic area. Option D is on the wrong side and at the wrong level."
+            },
+            {
+            "question": "What heart sound is produced by the closure of the mitral and tricuspid valves?",
+            "options": [
+                "S1 (first heart sound)",
+                "S2 (second heart sound)",
+                "S3 (third heart sound)",
+                "S4 (fourth heart sound)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "S1, the first heart sound ('lub'), is produced by closure of the atrioventricular valves (mitral and tricuspid). S2 (option B) is produced by closure of the semilunar valves (aortic and pulmonary). S3 and S4 (options C and D) are extra heart sounds that may indicate pathology and are not related to valve closure."
+            }
+        ]
+        },
+        {
+        "category": "Respiratory System",
+        "questions": [
+            {
+            "question": "A patient is receiving oxygen via nasal cannula at 2 L/min. What approximate FiO2 (fraction of inspired oxygen) is being delivered?",
+            "options": [
+                "24-28%",
+                "28-32%",
+                "35-40%",
+                "40-50%"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nasal cannula at 2 L/min delivers approximately 24-28% FiO2. Each liter of oxygen via nasal cannula adds approximately 4% to the baseline room air FiO2 of 21%. Therefore, 2 L/min would add 8%, resulting in 29% (or the range 24-28%). Option B (28-32%) would correspond to 3 L/min, option C (35-40%) to 4-5 L/min, and option D (40-50%) to higher flow rates or different delivery devices."
+            },
+            {
+            "question": "Which of the following describes normal vesicular breath sounds?",
+            "options": [
+                "Loud, high-pitched sounds heard over the trachea",
+                "Soft, low-pitched sounds heard over most lung fields with longer inspiration than expiration",
+                "Medium-pitched sounds heard at the base of the lungs with equal inspiration and expiration",
+                "Crackling sounds heard during inspiration"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Normal vesicular breath sounds are soft, low-pitched sounds heard over most lung fields with longer inspiration than expiration. Option A describes bronchial breath sounds. Option C describes bronchovesicular breath sounds. Option D describes crackles (rales), which are abnormal breath sounds."
+            },
+            {
+            "question": "What is the primary function of surfactant in the lungs?",
+            "options": [
+                "To increase airway resistance",
+                "To reduce surface tension and prevent alveolar collapse",
+                "To produce mucus and trap foreign particles",
+                "To transport oxygen from alveoli to blood"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Surfactant reduces surface tension in the alveoli, preventing collapse (atelectasis) during expiration. It doesn't increase airway resistance (option A) - that would impair breathing. Mucus production (option C) is done by goblet cells, not surfactant. Oxygen transport to blood (option D) occurs through diffusion across the alveolar-capillary membrane, not via surfactant."
+            },
+            {
+            "question": "What nursing intervention has the highest priority for a patient with acute respiratory distress?",
+            "options": [
+                "Administer prescribed pain medication",
+                "Position the patient to maximize oxygenation",
+                "Obtain a chest X-ray",
+                "Draw arterial blood gases"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Positioning the patient to maximize oxygenation (typically upright/high Fowler's position) is the highest priority nursing intervention for acute respiratory distress. This immediately helps improve gas exchange. Pain medication (option A) may be important but isn't the highest priority in respiratory distress. Obtaining a chest X-ray (option C) and drawing ABGs (option D) are diagnostic measures, not immediate interventions to improve oxygenation."
+            }
+        ]
+        },
+        {
+        "category": "Medication Administration",
+        "questions": [
+            {
+            "question": "Which medication requires monitoring of serum potassium levels?",
+            "options": [
+                "Furosemide (Lasix)",
+                "Acetaminophen (Tylenol)",
+                "Diphenhydramine (Benadryl)",
+                "Amoxicillin"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Furosemide (Lasix) is a loop diuretic that can cause potassium loss (hypokalemia) requiring monitoring of serum potassium levels. Acetaminophen (option B) affects liver function but not potassium levels. Diphenhydramine (option C) is an antihistamine that doesn't affect electrolytes. Amoxicillin (option D) is an antibiotic that doesn't typically affect potassium levels."
+            },
+            {
+            "question": "Which medication is the antidote for warfarin (Coumadin) toxicity?",
+            "options": [
+                "Protamine sulfate",
+                "Vitamin K",
+                "Naloxone (Narcan)",
+                "N-acetylcysteine"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vitamin K is the antidote for warfarin toxicity as it promotes the synthesis of clotting factors II, VII, IX, and X that are inhibited by warfarin. Protamine sulfate (option A) is the antidote for heparin. Naloxone (option C) is the antidote for opioid overdose. N-acetylcysteine (option D) is the antidote for acetaminophen toxicity."
+            },
+            {
+            "question": "According to New Zealand's nursing standards, what is the minimum number of patient identifiers required before administering medication?",
+            "options": [
+                "One identifier",
+                "Two identifiers",
+                "Three identifiers",
+                "Four identifiers"
+            ],
+            "correctAnswer": 1,
+            "explanation": "At least two patient identifiers are required before medication administration according to New Zealand standards. This typically includes the patient's full name and date of birth, but could also include NHI number. Using only one identifier (option A) is insufficient to prevent medication errors. Three or four identifiers (options C and D) are not typically required unless in special circumstances."
+            },
+            {
+            "question": "A patient is prescribed 25mg of a medication that comes in a 50mg/2mL solution. How many milliliters should the nurse administer?",
+            "options": [
+                "0.5 mL",
+                "1 mL",
+                "1.5 mL",
+                "2 mL"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The nurse should administer 1 mL. Using the formula: Desired dose/Stock dose × Stock volume = Volume to administer. (25mg/50mg) × 2mL = 0.5 × 2mL = 1mL. Option A (0.5 mL) is too little. Options C (1.5 mL) and D (2 mL) would deliver more than the prescribed dose and would be medication errors."
+            }
+        ]
+        },
+        {
+        "category": "Common Conditions & Interventions",
+        "questions": [
+            {
+            "question": "A patient with diabetes is exhibiting confusion, diaphoresis, and shakiness. What is the most appropriate initial nursing action?",
+            "options": [
+                "Administer insulin",
+                "Check blood glucose level",
+                "Give orange juice or glucose tablets",
+                "Call the healthcare provider immediately"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Checking the blood glucose level is the most appropriate initial action as these symptoms suggest hypoglycemia, but measurement should confirm this before intervening. Administering insulin (option A) would be dangerous if the patient is already hypoglycemic. Giving glucose (option C) might be appropriate after confirming hypoglycemia but isn't the first step. Calling the provider (option D) would delay treatment unnecessarily if the patient is truly hypoglycemic."
+            },
+            {
+            "question": "Which of the following is an early sign of pressure ulcer development?",
+            "options": [
+                "Black eschar formation",
+                "Full-thickness tissue loss",
+                "Non-blanchable erythema",
+                "Undermining and tunneling"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Non-blanchable erythema (redness that doesn't turn white when pressed) is an early sign of pressure injury (Stage 1). Black eschar (option A) indicates full-thickness tissue damage with necrosis (Stage 3-4). Full-thickness tissue loss (option B) is a Stage 3 pressure injury. Undermining and tunneling (option D) are seen in advanced Stage 3-4 pressure injuries with extensive tissue damage."
+            },
+            {
+            "question": "Which assessment finding would indicate a potential complication of a nasogastric tube?",
+            "options": [
+                "pH of aspirate is 3.5",
+                "Respiratory rate of 16 breaths/minute",
+                "Coughing when irrigation is attempted",
+                "Gurgling sounds during auscultation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Coughing when irrigation is attempted suggests the tube may be in the respiratory tract rather than the stomach, which is a serious complication requiring immediate intervention. A pH of 3.5 (option A) indicates acidic stomach contents, suggesting correct placement. A respiratory rate of 16 (option B) is normal. Gurgling sounds during auscultation (option D) may indicate correct placement in the stomach."
+            },
+            {
+            "question": "What is the recommended initial body position for a patient experiencing a syncopal episode?",
+            "options": [
+                "Prone position",
+                "Trendelenburg position",
+                "Supine with legs elevated",
+                "Semi-Fowler's position"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Supine with legs elevated (modified Trendelenburg) is recommended as it helps return blood to the central circulation and brain, which is beneficial during syncope. Prone position (option A) could obstruct the airway. Full Trendelenburg position (option B) is excessive for most syncope. Semi-Fowler's position (option D) would keep blood pooled in the lower extremities rather than promoting return to the brain."
+            }
+        ]
+        },
+        {
+        "category": "Nursing Equipment & Procedures",
+        "questions": [
+            {
+            "question": "Which of the following is the appropriate site for administering an intramuscular injection to an infant?",
+            "options": [
+                "Deltoid muscle",
+                "Ventrogluteal muscle",
+                "Vastus lateralis muscle",
+                "Dorsogluteal muscle"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The vastus lateralis (thigh) muscle is the preferred site for IM injections in infants as it's well-developed and away from major nerves and blood vessels. The deltoid (option A) is too small in infants. The ventrogluteal (option B) and dorsogluteal (option D) sites are not well-developed in infants and are more difficult to identify correctly."
+            },
+            {
+            "question": "Which of the following equipment would be used to measure central venous pressure (CVP)?",
+            "options": [
+                "Sphygmomanometer",
+                "Pulse oximeter",
+                "Manometer",
+                "ECG monitor"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A manometer is used to measure central venous pressure (CVP) by connecting it to a central venous catheter. A sphygmomanometer (option A) measures peripheral blood pressure. A pulse oximeter (option B) measures oxygen saturation. An ECG monitor (option D) measures electrical activity of the heart but not pressure."
+            },
+            {
+            "question": "When using an automated external defibrillator (AED), where should the pads be placed?",
+            "options": [
+                "Both pads on the anterior chest",
+                "One pad on the right upper chest and one on the left lower chest",
+                "One pad on the anterior chest and one on the posterior chest",
+                "Both pads on the posterior chest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "AED pads should be placed with one pad on the right upper chest (below the clavicle, to the right of the sternum) and one on the left lower chest (lateral to the left nipple, with the top of the pad several inches below the axilla). This position allows the current to travel through the heart. Options A, C, and D do not provide the optimal path for the current to depolarize the heart."
+            },
+            {
+            "question": "Which of the following is a normal neurological response when testing pupillary light reflex?",
+            "options": [
+                "Unilateral pupil constriction in the eye being tested",
+                "Bilateral pupil constriction",
+                "Unilateral pupil dilation in the eye being tested",
+                "No change in pupil size"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Normal pupillary light reflex results in bilateral pupil constriction (both pupils constrict when light is shone in one eye). This is called the consensual light reflex. Unilateral constriction only (option A) would indicate a neurological issue. Pupil dilation (option C) is the opposite of the expected response. No change (option D) would indicate an abnormal response."
+            }
+        ]
+        },
+        {
+        "category": "Mental Health & Communication",
+        "questions": [
+            {
+            "question": "Which communication technique is most appropriate when interacting with an anxious patient?",
+            "options": [
+                "Asking multiple questions quickly to distract them",
+                "Using medical terminology to demonstrate expertise",
+                "Speaking in a calm, clear voice and using short sentences",
+                "Telling them not to worry as everything will be fine"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Speaking calmly and using short, clear sentences helps anxious patients process information better. Multiple rapid questions (option A) would increase anxiety. Medical terminology (option B) may confuse and increase anxiety. Dismissing concerns with statements like 'don't worry' (option D) invalidates the patient's feelings and doesn't address their anxiety."
+            },
+            {
+            "question": "Which of the following is a therapeutic communication technique?",
+            "options": [
+                "Giving advice based on personal experience",
+                "Using open-ended questions",
+                "Changing the subject when the topic is uncomfortable",
+                "Agreeing with all patient statements to build rapport"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Open-ended questions encourage patients to express themselves fully and promote therapeutic communication. Giving personal advice (option A) imposes the nurse's values and isn't patient-centered. Changing uncomfortable subjects (option C) avoids important issues. Agreeing with all statements (option D) may affirm incorrect or unhealthy beliefs or perceptions."
+            },
+            {
+            "question": "Which action is most appropriate when caring for a patient experiencing hallucinations?",
+            "options": [
+                "Tell the patient that their perceptions aren't real",
+                "Pretend to see or hear the hallucinations to build trust",
+                "Acknowledge the patient's experience without validating the hallucination",
+                "Ignore the behavior unless it becomes disruptive"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Acknowledging the patient's experience without validating the hallucination shows respect while maintaining reality. Telling patients their perceptions aren't real (option A) may cause them to become defensive or distrustful. Pretending to share hallucinations (option B) reinforces false perceptions. Ignoring the behavior (option D) misses an opportunity to assess and intervene."
+            },
+            {
+            "question": "According to Te Ao Māori (Māori worldview), which concept represents the holistic view of health encompassing physical, mental, spiritual, and family wellbeing?",
+            "options": [
+                "Tino rangatiratanga",
+                "Whānau ora",
+                "Te Whare Tapa Whā",
+                "Manaakitanga"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Te Whare Tapa Whā is the Māori model of health that views wellbeing as a four-sided house, including taha tinana (physical), taha hinengaro (mental), taha wairua (spiritual), and taha whānau (family) aspects. Tino rangatiratanga (option A) refers to self-determination. Whānau ora (option B) is a health service delivery approach. Manaakitanga (option D) refers to hospitality, kindness, and support."
+            }
+        ]
+        },
+        {
+        "category": "Pediatric & Maternal Nursing",
+        "questions": [
+            {
+            "question": "At what age should a healthy infant typically be able to roll from back to stomach?",
+            "options": [
+                "1-2 months",
+                "3-4 months",
+                "5-6 months",
+                "9-10 months"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Healthy infants typically develop the ability to roll from back to stomach around 5-6 months of age. At 1-2 months (option A), infants can usually only lift their heads briefly. At 3-4 months (option B), they might roll from stomach to back but not typically the reverse. By 9-10 months (option D), most infants should have progressed well beyond rolling to more advanced motor skills like crawling or pulling to stand."
+            },
+            {
+            "question": "What is the most common complication of pregnancy in New Zealand?",
+            "options": [
+                "Gestational diabetes",
+                "Pre-eclampsia",
+                "Placenta previa",
+                "Hyperemesis gravidarum"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Gestational diabetes is the most common complication of pregnancy in New Zealand, affecting approximately 8-10% of pregnant women. Pre-eclampsia (option B) affects about 5-8% of pregnancies. Placenta previa (option C) is relatively rare, occurring in about 0.5% of pregnancies. Hyperemesis gravidarum (option D) affects about 1-3% of pregnant women."
+            },
+            {
+            "question": "Which of the following is an early sign of neonatal jaundice?",
+            "options": [
+                "Yellowing of the sclera and skin beginning at the feet and progressing upward",
+                "Yellowing of the sclera and skin beginning at the head and progressing downward",
+                "Reddening of the skin with a butterfly-shaped rash on the face",
+                "Bluish discoloration of the extremities"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Neonatal jaundice progresses in a head-to-toe direction (cephalocaudal progression), with yellowing first appearing in the face and sclera and then moving downward. Option A describes an incorrect progression pattern. Option C describes a rash pattern seen in lupus, not jaundice. Option D describes cyanosis, which is a different condition related to poor oxygenation."
+            },
+            {
+            "question": "Which immunization is specifically recommended for pregnant women in New Zealand?",
+            "options": [
+                "MMR (Measles, Mumps, Rubella)",
+                "Tdap (Tetanus, Diphtheria, Pertussis)",
+                "HPV (Human Papillomavirus)",
+                "Varicella (Chickenpox)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Tdap vaccine is recommended for pregnant women in New Zealand, ideally between 28-38 weeks of each pregnancy to protect newborns from pertussis (whooping cough). MMR (option A) is contraindicated during pregnancy as it's a live vaccine. HPV vaccine (option C) is not routinely given during pregnancy. Varicella vaccine (option D) is also contraindicated during pregnancy as it's a live vaccine."
+            }
+        ]
+        },
+        {
+        "category": "Vascular Anatomy",
+        "questions": [
+            {
+            "question": "What are the three layers of a vein wall, from innermost to outermost?",
+            "options": [
+                "Tunica intima, tunica media, tunica adventitia",
+                "Tunica adventitia, tunica media, tunica intima",
+                "Endothelium, basement membrane, smooth muscle",
+                "Serosa, muscularis, mucosa"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The three layers of a vein wall from innermost to outermost are: tunica intima (innermost layer consisting of endothelial cells), tunica media (middle layer of smooth muscle and elastic fibers), and tunica adventitia (outermost layer of connective tissue). Option B reverses the order. Option C only describes parts of the inner layer. Option D describes layers of hollow organs like the intestine, not blood vessels."
+            },
+            {
+            "question": "Which layer of a vein is thinner compared to the corresponding layer in an artery?",
+            "options": [
+                "Tunica intima",
+                "Tunica media",
+                "Tunica adventitia",
+                "All layers are thinner in veins"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The tunica media (middle layer) is significantly thinner in veins compared to arteries. This is because veins don't need to withstand the high pressures that arteries do. The tunica intima (option A) is similar in both. The tunica adventitia (option C) is actually proportionally thicker in veins than in arteries. Option D is incorrect because not all layers are proportionally thinner."
+            },
+            {
+            "question": "What structures, present in veins but not in arteries, help prevent the backflow of blood?",
+            "options": [
+                "Sphincters",
+                "Valves",
+                "Fenestrations",
+                "Anastomoses"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Valves are present in veins but not in arteries, and they prevent the backflow of blood against gravity. Sphincters (option A) are found in other structures like the digestive tract. Fenestrations (option C) are small pores in capillary walls. Anastomoses (option D) are connections between blood vessels and can be found in both arteries and veins."
+            },
+            {
+            "question": "Which blood vessels have the thinnest walls, consisting of only a single layer of endothelial cells?",
+            "options": [
+                "Arteries",
+                "Veins",
+                "Capillaries",
+                "Venules"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Capillaries have the thinnest walls, consisting of only a single layer of endothelial cells (tunica intima) and a thin basement membrane. This thin wall facilitates the exchange of nutrients, gases, and waste products. Arteries (option A), veins (option B), and venules (option D) all have multiple layers in their walls."
+            }
+        ]
+        },
+        {
+        "category": "Religious & Cultural Considerations in Nursing",
+        "questions": [
+            {
+            "question": "A Jehovah's Witness patient refuses a blood transfusion based on religious beliefs. What is the most appropriate nursing approach?",
+            "options": [
+                "Explain the risks until they consent to the transfusion",
+                "Respect their decision and explore alternative treatments",
+                "Contact the hospital ethics committee to override their decision",
+                "Consult with family members who might provide consent"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Respecting the patient's religious beliefs and exploring alternative treatments is the most appropriate approach. Continuing to pressure the patient (option A) disrespects their autonomy. Seeking to override their decision (option C) is ethically inappropriate for a competent adult. Consulting family members to override the patient's wishes (option D) violates the principle of autonomy when the patient has decision-making capacity."
+            },
+            {
+            "question": "When caring for a Muslim patient during Ramadan, which nursing intervention is most appropriate?",
+            "options": [
+                "Schedule medications to avoid fasting hours when possible",
+                "Insist that the patient take medications with meals regardless of fasting",
+                "Automatically provide exemption from fasting without discussing it",
+                "Discourage fasting due to potential health complications"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Scheduling medications outside of fasting hours (between dawn and sunset) when possible respects the patient's religious practice while ensuring medical care. Insisting on medications with meals (option B) unnecessarily disrespects religious practices. Automatically exempting the patient (option C) or discouraging fasting (option D) without discussion fails to respect the patient's autonomy and religious beliefs."
+            },
+            {
+            "question": "A Hindu patient refuses a meal containing beef. What is the most appropriate nursing response?",
+            "options": [
+                "Explain that hospital food is nutritionally balanced and should be consumed",
+                "Offer an alternative meal that aligns with the patient's dietary restrictions",
+                "Suggest the patient just eat around the beef portion",
+                "Inform the patient that such accommodations cannot be made"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Offering an alternative meal that aligns with the patient's religious dietary restrictions is the most appropriate response. Most Hindus consider cows sacred and avoid beef. Options A, C, and D all fail to respect the patient's religious practices and cultural identity, which is an important aspect of holistic care."
+            },
+            {
+            "question": "In Māori healthcare practices in New Zealand, what is the importance of 'karakia' (prayer/blessing)?",
+            "options": [
+                "It's only performed by hospital chaplains upon request",
+                "It's considered unnecessary in modern medical settings",
+                "It's an important spiritual component that may be performed before procedures or treatments",
+                "It's only performed in end-of-life care"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Karakia (prayer/blessing) is an important spiritual component in Māori healthcare practices and may be performed before procedures or treatments to ensure spiritual wellbeing. It's not limited to chaplains (option A) or end-of-life care (option D). Option B incorrectly dismisses the importance of traditional practices in modern healthcare, which goes against cultural safety principles."
+            }
+        ]
+        },
+        {
+        "category": "Medical Terminology & Word Origins",
+        "questions": [
+            {
+            "question": "The term 'dysphagia' comes from Greek roots meaning:",
+            "options": [
+                "Difficult breathing",
+                "Difficult swallowing",
+                "Painful urination",
+                "Impaired sensation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dysphagia comes from the Greek 'dys' (difficult/abnormal) and 'phagia' (eating/swallowing), meaning difficult swallowing. Option A describes dyspnea (difficult breathing). Option C describes dysuria (painful urination). Option D describes dysesthesia (impaired sensation)."
+            },
+            {
+            "question": "The prefix 'tachy-' in medical terms like tachycardia and tachypnea comes from Greek, meaning:",
+            "options": [
+                "Slow",
+                "Fast",
+                "Irregular",
+                "Painful"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The prefix 'tachy-' comes from Greek 'tachys' meaning fast or rapid. Thus, tachycardia means rapid heart rate, and tachypnea means rapid breathing. The prefix for 'slow' (option A) is 'brady-' as in bradycardia. 'Irregular' (option C) would use 'dys-' or 'a-/an-'. 'Painful' (option D) would use 'algia' or 'dynia' as a suffix."
+            },
+            {
+            "question": "The suffix '-ectomy' in surgical terms like appendectomy and tonsillectomy means:",
+            "options": [
+                "Repair of",
+                "Creation of an opening",
+                "Surgical removal",
+                "Visual examination"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The suffix '-ectomy' means surgical removal of an organ or tissue. Option A describes '-plasty' (repair). Option B describes '-ostomy' (creation of an opening). Option D describes '-scopy' (visual examination with an instrument)."
+            },
+            {
+            "question": "The term 'hypertension' uses the prefix 'hyper-', which comes from Greek meaning:",
+            "options": [
+                "Below",
+                "Above",
+                "Within",
+                "Against"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The prefix 'hyper-' comes from Greek meaning above, excessive, or beyond normal. In hypertension, it indicates blood pressure above normal levels. 'Below' (option A) would be 'hypo-'. 'Within' (option C) would be 'endo-'. 'Against' (option D) would be 'anti-'."
+            },
+            {
+            "question": "The term 'hepatitis' combines the Greek root 'hepat' with the suffix '-itis'. What does this combination mean?",
+            "options": [
+                "Liver disease",
+                "Inflammation of the liver",
+                "Enlargement of the liver",
+                "Dysfunction of the liver"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The term 'hepatitis' combines 'hepat' (liver) with the suffix '-itis' (inflammation), meaning inflammation of the liver. 'Liver disease' (option A) is too general. 'Enlargement of the liver' (option C) would be 'hepatomegaly'. 'Dysfunction of the liver' (option D) would be 'hepatic dysfunction' or 'hepatopathy'."
+            }
+        ]
+        },
+        {
+        "category": "Advanced Ethical Principles in Nursing",
+        "questions": [
+            {
+            "question": "Which ethical principle is being applied when a nurse ensures that all patients receive the same standard of care regardless of their social or economic status?",
+            "options": [
+                "Autonomy",
+                "Beneficence",
+                "Justice",
+                "Fidelity"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Justice involves the fair distribution of resources and treating people equally. Ensuring all patients receive the same standard of care regardless of socioeconomic status exemplifies this principle. Autonomy (option A) refers to respecting patients' decisions. Beneficence (option B) means doing good. Fidelity (option D) refers to keeping promises and being loyal to commitments."
+            },
+            {
+            "question": "In the New Zealand context, which ethical approach aligns most closely with the Māori concept of 'whanaungatanga' (relationship, kinship)?",
+            "options": [
+                "Utilitarian ethics (focus on greatest good for greatest number)",
+                "Kantian ethics (focus on duty and universal rules)",
+                "Relational ethics (focus on relationships and context)",
+                "Virtue ethics (focus on character development)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Relational ethics, which emphasizes the importance of relationships and context in ethical decision-making, aligns most closely with 'whanaungatanga'. The Māori concept emphasizes the importance of connections and relationships in decision-making. Utilitarian ethics (option A) prioritizes outcomes for the majority, which may conflict with family-centered decisions. Kantian ethics (option B) focuses on universal rules rather than relationships. Virtue ethics (option D) focuses on character traits rather than specifically on relationships."
+            },
+            {
+            "question": "A nurse disagrees with a doctor's treatment plan but doesn't voice concerns due to perceived hierarchy. This situation most clearly demonstrates a failure in which ethical concept?",
+            "options": [
+                "Moral courage",
+                "Nonmaleficence",
+                "Autonomy",
+                "Veracity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "This situation demonstrates a failure of moral courage, which is the willingness to stand up for what is right despite personal risk or discomfort. Nonmaleficence (option B) is the principle of doing no harm. Autonomy (option C) relates to patients' right to make their own decisions. Veracity (option D) is truthfulness, which is relevant but not the primary ethical concept at issue here."
+            },
+            {
+            "question": "Which ethical concept is most directly connected to the practice of obtaining informed consent before procedures?",
+            "options": [
+                "Beneficence",
+                "Autonomy",
+                "Justice",
+                "Utilitarianism"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Autonomy, the principle that patients have the right to make their own decisions about their healthcare, is most directly connected to informed consent. Beneficence (option A) relates to doing good for the patient. Justice (option C) concerns fair distribution of resources. Utilitarianism (option D) is a broad ethical framework focused on creating the greatest good for the greatest number of people."
+            }
+        ]
+        },
+  {
+    "category": "Vascular Anatomy",
+    "questions": [
+      {
+        "question": "What are the three layers of a vein wall, from innermost to outermost?",
+        "options": [
+          "Tunica intima, tunica media, tunica adventitia",
+          "Tunica adventitia, tunica media, tunica intima",
+          "Endothelium, basement membrane, smooth muscle",
+          "Serosa, muscularis, mucosa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The three layers of a vein wall from innermost to outermost are: tunica intima (innermost layer consisting of endothelial cells), tunica media (middle layer of smooth muscle and elastic fibers), and tunica adventitia (outermost layer of connective tissue). Option B reverses the order. Option C only describes parts of the inner layer. Option D describes layers of hollow organs like the intestine, not blood vessels."
+      },
+      {
+        "question": "Which layer of a vein is thinner compared to the corresponding layer in an artery?",
+        "options": [
+          "Tunica intima",
+          "Tunica media",
+          "Tunica adventitia",
+          "All layers are thinner in veins"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The tunica media (middle layer) is significantly thinner in veins compared to arteries. This is because veins don't need to withstand the high pressures that arteries do. The tunica intima (option A) is similar in both. The tunica adventitia (option C) is actually proportionally thicker in veins than in arteries. Option D is incorrect because not all layers are proportionally thinner."
+      },
+      {
+        "question": "What structures, present in veins but not in arteries, help prevent the backflow of blood?",
+        "options": [
+          "Sphincters",
+          "Valves",
+          "Fenestrations",
+          "Anastomoses"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Valves are present in veins but not in arteries, and they prevent the backflow of blood against gravity. Sphincters (option A) are found in other structures like the digestive tract. Fenestrations (option C) are small pores in capillary walls. Anastomoses (option D) are connections between blood vessels and can be found in both arteries and veins."
+      },
+      {
+        "question": "Which blood vessels have the thinnest walls, consisting of only a single layer of endothelial cells?",
+        "options": [
+          "Arteries",
+          "Veins",
+          "Capillaries",
+          "Venules"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Capillaries have the thinnest walls, consisting of only a single layer of endothelial cells (tunica intima) and a thin basement membrane. This thin wall facilitates the exchange of nutrients, gases, and waste products. Arteries (option A), veins (option B), and venules (option D) all have multiple layers in their walls."
+      }
+    ]
+  },
+  {
+    "category": "Religious & Cultural Considerations in Nursing",
+    "questions": [
+      {
+        "question": "A Jehovah's Witness patient refuses a blood transfusion based on religious beliefs. What is the most appropriate nursing approach?",
+        "options": [
+          "Explain the risks until they consent to the transfusion",
+          "Respect their decision and explore alternative treatments",
+          "Contact the hospital ethics committee to override their decision",
+          "Consult with family members who might provide consent"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Respecting the patient's religious beliefs and exploring alternative treatments is the most appropriate approach. Continuing to pressure the patient (option A) disrespects their autonomy. Seeking to override their decision (option C) is ethically inappropriate for a competent adult. Consulting family members to override the patient's wishes (option D) violates the principle of autonomy when the patient has decision-making capacity."
+      },
+      {
+        "question": "When caring for a Muslim patient during Ramadan, which nursing intervention is most appropriate?",
+        "options": [
+          "Schedule medications to avoid fasting hours when possible",
+          "Insist that the patient take medications with meals regardless of fasting",
+          "Automatically provide exemption from fasting without discussing it",
+          "Discourage fasting due to potential health complications"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Scheduling medications outside of fasting hours (between dawn and sunset) when possible respects the patient's religious practice while ensuring medical care. Insisting on medications with meals (option B) unnecessarily disrespects religious practices. Automatically exempting the patient (option C) or discouraging fasting (option D) without discussion fails to respect the patient's autonomy and religious beliefs."
+      },
+      {
+        "question": "A Hindu patient refuses a meal containing beef. What is the most appropriate nursing response?",
+        "options": [
+          "Explain that hospital food is nutritionally balanced and should be consumed",
+          "Offer an alternative meal that aligns with the patient's dietary restrictions",
+          "Suggest the patient just eat around the beef portion",
+          "Inform the patient that such accommodations cannot be made"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Offering an alternative meal that aligns with the patient's religious dietary restrictions is the most appropriate response. Most Hindus consider cows sacred and avoid beef. Options A, C, and D all fail to respect the patient's religious practices and cultural identity, which is an important aspect of holistic care."
+      },
+      {
+        "question": "In Māori healthcare practices in New Zealand, what is the importance of 'karakia' (prayer/blessing)?",
+        "options": [
+          "It's only performed by hospital chaplains upon request",
+          "It's considered unnecessary in modern medical settings",
+          "It's an important spiritual component that may be performed before procedures or treatments",
+          "It's only performed in end-of-life care"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Karakia (prayer/blessing) is an important spiritual component in Māori healthcare practices and may be performed before procedures or treatments to ensure spiritual wellbeing. It's not limited to chaplains (option A) or end-of-life care (option D). Option B incorrectly dismisses the importance of traditional practices in modern healthcare, which goes against cultural safety principles."
+      }
+    ]
+  },
+  {
+    "category": "Medical Terminology & Word Origins",
+    "questions": [
+      {
+        "question": "The term 'dysphagia' comes from Greek roots meaning:",
+        "options": [
+          "Difficult breathing",
+          "Difficult swallowing",
+          "Painful urination",
+          "Impaired sensation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dysphagia comes from the Greek 'dys' (difficult/abnormal) and 'phagia' (eating/swallowing), meaning difficult swallowing. Option A describes dyspnea (difficult breathing). Option C describes dysuria (painful urination). Option D describes dysesthesia (impaired sensation)."
+      },
+      {
+        "question": "The prefix 'tachy-' in medical terms like tachycardia and tachypnea comes from Greek, meaning:",
+        "options": [
+          "Slow",
+          "Fast",
+          "Irregular",
+          "Painful"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The prefix 'tachy-' comes from Greek 'tachys' meaning fast or rapid. Thus, tachycardia means rapid heart rate, and tachypnea means rapid breathing. The prefix for 'slow' (option A) is 'brady-' as in bradycardia. 'Irregular' (option C) would use 'dys-' or 'a-/an-'. 'Painful' (option D) would use 'algia' or 'dynia' as a suffix."
+      },
+      {
+        "question": "The suffix '-ectomy' in surgical terms like appendectomy and tonsillectomy means:",
+        "options": [
+          "Repair of",
+          "Creation of an opening",
+          "Surgical removal",
+          "Visual examination"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The suffix '-ectomy' means surgical removal of an organ or tissue. Option A describes '-plasty' (repair). Option B describes '-ostomy' (creation of an opening). Option D describes '-scopy' (visual examination with an instrument)."
+      },
+      {
+        "question": "The term 'hypertension' uses the prefix 'hyper-', which comes from Greek meaning:",
+        "options": [
+          "Below",
+          "Above",
+          "Within",
+          "Against"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The prefix 'hyper-' comes from Greek meaning above, excessive, or beyond normal. In hypertension, it indicates blood pressure above normal levels. 'Below' (option A) would be 'hypo-'. 'Within' (option C) would be 'endo-'. 'Against' (option D) would be 'anti-'."
+      },
+      {
+        "question": "The term 'hepatitis' combines the Greek root 'hepat' with the suffix '-itis'. What does this combination mean?",
+        "options": [
+          "Liver disease",
+          "Inflammation of the liver",
+          "Enlargement of the liver",
+          "Dysfunction of the liver"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The term 'hepatitis' combines 'hepat' (liver) with the suffix '-itis' (inflammation), meaning inflammation of the liver. 'Liver disease' (option A) is too general. 'Enlargement of the liver' (option C) would be 'hepatomegaly'. 'Dysfunction of the liver' (option D) would be 'hepatic dysfunction' or 'hepatopathy'."
+      }
+    ]
+  },
+  {
+    "category": "Advanced Ethical Principles in Nursing",
+    "questions": [
+      {
+        "question": "Which ethical principle is being applied when a nurse ensures that all patients receive the same standard of care regardless of their social or economic status?",
+        "options": [
+          "Autonomy",
+          "Beneficence",
+          "Justice",
+          "Fidelity"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Justice involves the fair distribution of resources and treating people equally. Ensuring all patients receive the same standard of care regardless of socioeconomic status exemplifies this principle. Autonomy (option A) refers to respecting patients' decisions. Beneficence (option B) means doing good. Fidelity (option D) refers to keeping promises and being loyal to commitments."
+      },
+      {
+        "question": "In the New Zealand context, which ethical approach aligns most closely with the Māori concept of 'whanaungatanga' (relationship, kinship)?",
+        "options": [
+          "Utilitarian ethics (focus on greatest good for greatest number)",
+          "Kantian ethics (focus on duty and universal rules)",
+          "Relational ethics (focus on relationships and context)",
+          "Virtue ethics (focus on character development)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Relational ethics, which emphasizes the importance of relationships and context in ethical decision-making, aligns most closely with 'whanaungatanga'. The Māori concept emphasizes the importance of connections and relationships in decision-making. Utilitarian ethics (option A) prioritizes outcomes for the majority, which may conflict with family-centered decisions. Kantian ethics (option B) focuses on universal rules rather than relationships. Virtue ethics (option D) focuses on character traits rather than specifically on relationships."
+      },
+      {
+        "question": "A nurse disagrees with a doctor's treatment plan but doesn't voice concerns due to perceived hierarchy. This situation most clearly demonstrates a failure in which ethical concept?",
+        "options": [
+          "Moral courage",
+          "Nonmaleficence",
+          "Autonomy",
+          "Veracity"
+        ],
+        "correctAnswer": 0,
+        "explanation": "This situation demonstrates a failure of moral courage, which is the willingness to stand up for what is right despite personal risk or discomfort. Nonmaleficence (option B) is the principle of doing no harm. Autonomy (option C) relates to patients' right to make their own decisions. Veracity (option D) is truthfulness, which is relevant but not the primary ethical concept at issue here."
+      },
+      {
+        "question": "Which ethical concept is most directly connected to the practice of obtaining informed consent before procedures?",
+        "options": [
+          "Beneficence",
+          "Autonomy",
+          "Justice",
+          "Utilitarianism"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Autonomy, the principle that patients have the right to make their own decisions about their healthcare, is most directly connected to informed consent. Beneficence (option A) relates to doing good for the patient. Justice (option C) concerns fair distribution of resources. Utilitarianism (option D) is a broad ethical framework focused on creating the greatest good for the greatest number of people."
+      }
+    ]
+  },
+    {
+      "category": "Pharmacology Fundamentals",
+      "questions": [
+        {
+          "question": "Which pharmacokinetic process is primarily affected when a patient has severe liver disease?",
+          "options": [
+            "Absorption",
+            "Distribution",
+            "Metabolism",
+            "Excretion"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Metabolism is primarily affected by liver disease because the liver is the main site of drug metabolism. Liver enzymes (primarily cytochrome P450) are responsible for converting drugs into forms that can be more easily eliminated. Absorption (option A) primarily occurs in the GI tract. Distribution (option B) involves the movement of drugs throughout the body via the bloodstream. Excretion (option D) is primarily affected by kidney function, not liver function."
+        },
+        {
+          "question": "Which of the following medication classes requires regular monitoring of serum drug levels to prevent toxicity?",
+          "options": [
+            "ACE inhibitors",
+            "Aminoglycosides",
+            "Proton pump inhibitors",
+            "Selective serotonin reuptake inhibitors (SSRIs)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Aminoglycosides (like gentamicin) require regular serum drug level monitoring due to their narrow therapeutic index and potential for nephrotoxicity and ototoxicity. ACE inhibitors (option A) require monitoring of renal function and potassium levels but not serum drug levels. Proton pump inhibitors (option C) generally don't require serum level monitoring. SSRIs (option D) are monitored based on clinical response rather than serum levels."
+        },
+        {
+          "question": "A patient is prescribed 650 mg of medication. The medication is available as 325 mg tablets. How many tablets should the nurse administer?",
+          "options": [
+            "1 tablet",
+            "2 tablets",
+            "3 tablets",
+            "4 tablets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The nurse should administer 2 tablets. Using the formula: Dose ordered ÷ Dose available = Number of tablets. Therefore, 650 mg ÷ 325 mg = 2 tablets. One tablet (option A) would provide insufficient medication (only 325 mg). Three tablets (option C) would provide excessive medication (975 mg). Four tablets (option D) would provide far too much medication (1300 mg)."
+        },
+        {
+          "question": "What is the mechanism of action of beta-blocker medications?",
+          "options": [
+            "They block calcium channels in vascular smooth muscle",
+            "They inhibit the conversion of angiotensin I to angiotensin II",
+            "They compete with and block the effects of catecholamines at beta-adrenergic receptors",
+            "They inhibit the reabsorption of sodium and chloride in the renal tubules"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Beta-blockers work by competing with and blocking the effects of catecholamines (like adrenaline) at beta-adrenergic receptors, which reduces heart rate and blood pressure. Option A describes the mechanism of calcium channel blockers. Option B describes ACE inhibitors. Option D describes loop diuretics like furosemide (Lasix)."
+        }
+      ]
+    },
+    {
+      "category": "Anatomy & Physiology Specifics",
+      "questions": [
+        {
+          "question": "Which cranial nerve is assessed when testing a patient's gag reflex?",
+          "options": [
+            "Trigeminal nerve (CN V)",
+            "Facial nerve (CN VII)",
+            "Glossopharyngeal nerve (CN IX)",
+            "Hypoglossal nerve (CN XII)"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The glossopharyngeal nerve (CN IX) is assessed when testing the gag reflex, along with the vagus nerve (CN X). The trigeminal nerve (option A) is involved in facial sensation and jaw movement. The facial nerve (option B) controls facial expressions. The hypoglossal nerve (option D) controls tongue movement."
+        },
+        {
+          "question": "What effect does the hormone aldosterone have on the body?",
+          "options": [
+            "Decreases blood glucose levels",
+            "Increases calcium absorption in the intestines",
+            "Increases sodium reabsorption and potassium excretion by the kidneys",
+            "Stimulates erythrocyte production"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Aldosterone increases sodium reabsorption and potassium excretion by the kidneys, which leads to water retention and increased blood pressure. Decreasing blood glucose levels (option A) is an effect of insulin. Increasing calcium absorption (option B) is an effect of vitamin D and parathyroid hormone. Stimulating erythrocyte production (option D) is an effect of erythropoietin (EPO)."
+        },
+        {
+          "question": "Which physiological change occurs in the kidneys as part of the body's response to hypovolemia?",
+          "options": [
+            "Decreased renin release",
+            "Increased glomerular filtration rate",
+            "Decreased reabsorption of sodium",
+            "Activation of the renin-angiotensin-aldosterone system"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Hypovolemia (low blood volume) triggers activation of the renin-angiotensin-aldosterone system (RAAS), which increases sodium and water retention to restore blood volume. Renin release is increased (not decreased as in option A). Glomerular filtration rate decreases (not increases as in option B) to conserve fluid. Sodium reabsorption increases (not decreases as in option C) as part of the compensatory mechanism."
+        },
+        {
+          "question": "Which assessment finding would indicate osteoporosis?",
+          "options": [
+            "Elevated serum calcium levels",
+            "Decreased bone mineral density",
+            "Inflammation of the synovial membrane",
+            "Presence of rheumatoid factor"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Decreased bone mineral density is a hallmark of osteoporosis, which is characterized by porous, fragile bones with reduced density. Elevated serum calcium levels (option A) may indicate hypercalcemia, which can occur in conditions like hyperparathyroidism. Inflammation of the synovial membrane (option C) occurs in rheumatoid arthritis and other inflammatory joint conditions. Presence of rheumatoid factor (option D) is associated with rheumatoid arthritis, not osteoporosis."
+        }
+      ]
+    },
+    {
+      "category": "Nursing Assessment Skills",
+      "questions": [
+        {
+          "question": "When performing a head-to-toe assessment, what is the correct sequence?",
+          "options": [
+            "Vital signs, neurological, head/neck, chest, abdomen, extremities, skin",
+            "Head/neck, chest, abdomen, extremities, neurological, vital signs, skin",
+            "Vital signs, general appearance, neurological, skin, head/neck, chest, abdomen, extremities",
+            "General appearance, vital signs, head/neck, chest, abdomen, extremities, neurological, skin"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The correct sequence for a head-to-toe assessment is: vital signs, general appearance, neurological, skin, head/neck, chest, abdomen, and extremities. This sequence allows for a systematic approach that flows from general to specific and from head to toe. Options A, B, and D all present sequences that are not as systematic or logical in progression."
+        },
+        {
+          "question": "Which of the following is an example of objective data in nursing assessment?",
+          "options": [
+            "\"Patient states pain is 8/10\"",
+            "\"Patient appears anxious\"",
+            "\"Patient's blood pressure is 142/88 mmHg\"",
+            "\"Patient reports feeling nauseated since breakfast\""
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Patient's blood pressure is 142/88 mmHg\" is objective data because it is measurable and observable using equipment. The other options are subjective data: \"Patient states pain is 8/10\" (option A) and \"Patient reports feeling nauseated since breakfast\" (option D) are the patient's perceptions or statements. \"Patient appears anxious\" (option B) is the nurse's interpretation of observed behavior, not a measurable finding."
+        },
+        {
+          "question": "In the SBAR communication framework, what does the 'B' represent?",
+          "options": [
+            "Briefing",
+            "Background",
+            "Behavior",
+            "Best practice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In the SBAR framework, 'B' stands for Background, which includes relevant clinical history and context about the patient. 'S' stands for Situation (current status), 'A' for Assessment (your analysis and concerns), and 'R' for Recommendation (what you're asking to be done). Briefing (option A), Behavior (option C), and Best practice (option D) are not components of the standard SBAR framework."
+        },
+        {
+          "question": "Which of the following would be most appropriate to include in the nursing care plan for a patient with impaired mobility?",
+          "options": [
+            "Nursing Diagnosis: Impaired physical mobility related to pain as evidenced by reluctance to move",
+            "Patient will be able to walk independently",
+            "Monitor vital signs every 8 hours",
+            "Patient appears unable to walk to bathroom"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"Nursing Diagnosis: Impaired physical mobility related to pain as evidenced by reluctance to move\" is most appropriate for a nursing care plan as it follows the proper format of a nursing diagnosis with the problem, etiology (related to), and signs/symptoms (as evidenced by). Option B is a goal but lacks specificity. Option C is an intervention but not linked to the specific mobility issue. Option D is an assessment finding, not a care plan component."
+        }
+      ]
+    },
+    {
+      "category": "Mental Health Nursing in NZ Context",
+      "questions": [
+        {
+          "question": "Under the Mental Health (Compulsory Assessment and Treatment) Act in New Zealand, which of the following is required for a compulsory treatment order?",
+          "options": [
+            "The patient must voluntarily agree to treatment",
+            "The patient must have a mental disorder that poses a serious danger to themselves or others",
+            "The patient must have previously received mental health treatment",
+            "The patient must be over 18 years of age"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Under the Mental Health Act in NZ, a compulsory treatment order requires that the patient has a mental disorder (as defined in the Act) that poses a serious danger to themselves or others, or seriously diminishes their capacity for self-care. By definition, compulsory treatment does not require voluntary agreement (option A). Previous treatment (option C) is not a requirement. The Act applies to all ages, not just those over 18 (option D)."
+        },
+        {
+          "question": "Which of the following is a priority assessment when conducting a suicide risk assessment?",
+          "options": [
+            "Family history of mental illness",
+            "Current suicidal ideation and plan",
+            "History of childhood trauma",
+            "Socioeconomic status"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Current suicidal ideation and plan is the priority assessment in suicide risk evaluation, as it directly addresses immediate risk and safety concerns. While family history of mental illness (option A), history of childhood trauma (option C), and socioeconomic status (option D) may all be risk factors for suicide, they are not as immediate or critical as current thoughts, plans, and intentions."
+        },
+        {
+          "question": "Which medication side effect should be closely monitored in patients taking clozapine, an antipsychotic commonly used for treatment-resistant schizophrenia?",
+          "options": [
+            "Hyperglycemia",
+            "Agranulocytosis",
+            "Hypertension",
+            "Increased libido"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Agranulocytosis (severe decrease in white blood cells) is a potentially life-threatening side effect of clozapine that requires regular blood monitoring. While hyperglycemia (option A) can occur with clozapine and other atypical antipsychotics, it's not the most serious side effect requiring specialized monitoring. Clozapine typically causes hypotension, not hypertension (option C). Decreased libido, not increased libido (option D), may occur with antipsychotics."
+        },
+        {
+          "question": "In the New Zealand strategy 'Every Life Matters - He Tapu te Oranga o ia Tangata', what key approach is emphasized for suicide prevention?",
+          "options": [
+            "Mandatory psychiatric hospitalization for all suicide attempts",
+            "Restricting access to mental health information",
+            "A whole-of-society approach with shared responsibility",
+            "Focusing solely on high-risk individuals"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The NZ suicide prevention strategy 'Every Life Matters' emphasizes a whole-of-society approach with shared responsibility across communities, sectors, and government. It does not advocate for mandatory hospitalization (option A), which would be contrary to the recovery-oriented approach. The strategy promotes increased access to information, not restriction (option B). It emphasizes both population-based and targeted approaches, not solely focusing on high-risk individuals (option D)."
+        }
+      ]
+    },
+    {
+      "category": "Māori Health Concepts & Cultural Safety",
+      "questions": [
+        {
+          "question": "In Te Whare Tapa Whā, what aspect of health does 'taha wairua' represent?",
+          "options": [
+            "Physical health",
+            "Mental health",
+            "Family health",
+            "Spiritual health"
+          ],
+          "correctAnswer": 3,
+          "explanation": "In Te Whare Tapa Whā, 'taha wairua' represents spiritual health and wellbeing. 'Taha tinana' refers to physical health (option A), 'taha hinengaro' refers to mental and emotional health (option B), and 'taha whānau' refers to family and social health (option C). Together, these four dimensions form the four walls of the house (whare) that represent holistic Māori health."
+        },
+        {
+          "question": "What is the primary difference between cultural safety and cultural competence in nursing practice?",
+          "options": [
+            "Cultural safety focuses on the nurse's knowledge, while cultural competence focuses on the patient's experience",
+            "Cultural safety focuses on the patient's experience and outcomes, while cultural competence focuses on the nurse's knowledge and skills",
+            "Cultural safety is a New Zealand concept, while cultural competence is an international concept",
+            "Cultural safety addresses only Indigenous cultures, while cultural competence addresses all cultures"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cultural safety focuses on the patient's experience and outcomes - whether they feel safe and respected - while cultural competence focuses on the healthcare provider's knowledge, skills, and attitudes. This distinction is important as cultural safety shifts the power dynamic to center the patient's perspective. Option A reverses this relationship. While cultural safety did originate in New Zealand (related to option C), both concepts are now used internationally. Both concepts apply to all cultures, not just Indigenous ones (contrary to option D)."
+        },
+        {
+          "question": "Which traditional Māori healing practice involves the use of massage and manipulation?",
+          "options": [
+            "Rongoā",
+            "Mirimiri",
+            "Karakia",
+            "Waiata"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mirimiri is the traditional Māori healing practice that involves massage, manipulation, and pressure point therapy to treat physical, emotional, and spiritual ailments. Rongoā (option A) refers to traditional Māori herbal medicine using native plants. Karakia (option C) refers to prayer or blessing. Waiata (option D) refers to songs or chants, which may be used in healing contexts but are not specific healing practices themselves."
+        },
+        {
+          "question": "What is a key principle of the 'cultural safety' concept as developed by Māori nurse Irihapeti Ramsden?",
+          "options": [
+            "Learning about as many different cultures as possible",
+            "Examining the potential impact of the nurse's own culture on clinical practice",
+            "Providing the same care to all patients regardless of cultural background",
+            "Delegating care of Māori patients to Māori healthcare providers whenever possible"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A key principle of cultural safety as developed by Irihapeti Ramsden is that nurses must examine the potential impact of their own culture, biases, and position of power on their clinical practice. This self-reflection is central to cultural safety. Simply learning about different cultures (option A) describes cultural awareness, not cultural safety. Providing identical care to all patients (option C) ignores cultural differences and needs. Delegating care based on ethnicity (option D) is not a principle of cultural safety and could be discriminatory."
+        }
+      ]
+    },
+    {
+      "category": "Nursing Research & Evidence-Based Practice",
+      "questions": [
+        {
+          "question": "Which research design is most appropriate for determining the effectiveness of a new nursing intervention compared to standard care?",
+          "options": [
+            "Descriptive study",
+            "Correlational study",
+            "Randomized controlled trial",
+            "Phenomenological study"
+          ],
+          "correctAnswer": 2,
+          "explanation": "A randomized controlled trial (RCT) is most appropriate for determining the effectiveness of a new intervention compared to standard care because it randomly assigns participants to either the intervention or control group, thereby minimizing bias and allowing for causal inferences. Descriptive studies (option A) describe characteristics without testing relationships. Correlational studies (option B) examine relationships but cannot establish causation. Phenomenological studies (option D) explore lived experiences qualitatively."
+        },
+        {
+          "question": "When critically appraising a quantitative research article, which of the following is LEAST important to consider?",
+          "options": [
+            "The sample size and selection method",
+            "The reliability and validity of measurement tools",
+            "The reputation of the journal publisher",
+            "The statistical analysis methods used"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The reputation of the journal publisher is the least important factor when critically appraising a research article. While peer-reviewed journals provide some quality assurance, the content of the article itself should be evaluated based on scientific merit. The sample size and selection method (option A), reliability and validity of measurement tools (option B), and statistical analysis methods (option D) are all crucial scientific factors that directly impact the quality and trustworthiness of the research findings."
+        },
+        {
+          "question": "What is the correct order of steps in the evidence-based practice process?",
+          "options": [
+            "Assess outcomes, formulate question, gather evidence, implement intervention, evaluate evidence",
+            "Formulate question, gather evidence, evaluate evidence, implement intervention, assess outcomes",
+            "Gather evidence, formulate question, evaluate evidence, implement intervention, assess outcomes",
+            "Implement intervention, formulate question, gather evidence, evaluate evidence, assess outcomes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The correct order of steps in the evidence-based practice process is: formulate a clear clinical question (often using PICO format), gather relevant evidence, evaluate/appraise the evidence, implement an intervention based on the best evidence, and assess outcomes. Option A, C, and D all present sequences that disrupt the logical progression from question to outcome assessment."
+        },
+        {
+          "question": "Which level of evidence is considered the strongest according to most evidence hierarchies?",
+          "options": [
+            "Expert opinion",
+            "Case studies",
+            "Systematic reviews and meta-analyses",
+            "Qualitative studies"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Systematic reviews and meta-analyses are considered the strongest level of evidence in most evidence hierarchies because they comprehensively analyze multiple high-quality studies on a topic. Expert opinion (option A) is generally considered the lowest level of evidence. Case studies (option B) provide detailed information but low generalizability. Qualitative studies (option D) provide valuable insights but are not designed to test efficacy or establish causality in the way quantitative studies are."
+        }
+      ]
+    },
+    {
+      "category": "Community & Public Health Nursing",
+      "questions": [
+        {
+          "question": "Which of the following best describes the primary healthcare approach in New Zealand?",
+          "options": [
+            "Healthcare services delivered only in hospitals",
+            "Focus on treatment of acute illnesses by specialists",
+            "Accessible, community-based care emphasizing prevention and health promotion",
+            "Privatized services available only to those who can afford them"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The primary healthcare approach in New Zealand emphasizes accessible, community-based care with a focus on prevention and health promotion. This aligns with the World Health Organization's principles of primary healthcare. Primary care is not limited to hospitals (option A); in fact, it typically occurs outside hospital settings. It focuses on prevention and health maintenance, not just acute treatment (option B). New Zealand has a mixed public-private system, not purely privatized services (option D)."
+        },
+        {
+          "question": "In epidemiology, what does 'incidence rate' measure?",
+          "options": [
+            "The total number of cases in a population at a specific point in time",
+            "The number of new cases over a specific period",
+            "The severity of a disease in the affected population",
+            "The number of deaths from a specific disease"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Incidence rate measures the number of new cases of a disease or condition that develop in a population over a specific period of time. The total number of existing cases at a specific point in time (option A) describes prevalence, not incidence. Incidence does not measure disease severity (option C). The number of deaths from a disease (option D) refers to mortality rate, not incidence rate."
+        },
+        {
+          "question": "What is the primary focus of the Ottawa Charter for Health Promotion?",
+          "options": [
+            "Increasing hospital beds and specialist services",
+            "Treating communicable diseases in developing countries",
+            "Empowering individuals and addressing social determinants of health",
+            "Privatizing healthcare systems globally"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Ottawa Charter for Health Promotion focuses on empowering individuals and communities and addressing the broader social determinants of health. It identifies five key action areas: building healthy public policy, creating supportive environments, strengthening community action, developing personal skills, and reorienting health services. It is not focused on increasing hospital services (option A), specifically on communicable diseases (option B), or privatizing healthcare (option D)."
+        },
+        {
+          "question": "Which initiative is part of New Zealand's approach to reducing health inequities for Māori?",
+          "options": [
+            "Restricting access to traditional healing practices",
+            "Reducing funding for rural healthcare services",
+            "Establishing Māori health providers and Whānau Ora approach",
+            "Limiting health education to English language only"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Establishing Māori health providers and implementing the Whānau Ora approach (family-centered care) are key initiatives in New Zealand's approach to reducing health inequities for Māori. These initiatives acknowledge the importance of culturally appropriate services and increasing Māori participation in healthcare. Options A, B, and D would likely increase rather than reduce inequities and go against NZ health policies that emphasize cultural responsiveness and accessibility."
+        }
+      ]
+    },
+    {
+      "category": "Nursing Leadership & Management",
+      "questions": [
+        {
+          "question": "According to principles of delegation in nursing, which task cannot be delegated to a healthcare assistant?",
+          "options": [
+            "Assisting a patient with personal hygiene",
+            "Taking vital signs of a stable patient",
+            "Conducting a patient assessment",
+            "Assisting with ambulation of a stable patient"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Conducting a patient assessment cannot be delegated to a healthcare assistant as it requires the clinical judgment and knowledge of a registered nurse. This is part of the assessment phase of the nursing process. Assisting with personal hygiene (option A), taking vital signs of stable patients (option B), and assisting with ambulation of stable patients (option D) are all tasks that can be appropriately delegated to healthcare assistants, as they involve routine care activities within their scope of practice."
+        },
+        {
+          "question": "Which conflict resolution approach involves finding a solution that partially satisfies both parties?",
+          "options": [
+            "Avoiding",
+            "Accommodating",
+            "Competing",
+            "Compromising"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Compromising involves finding a middle ground that partially satisfies both parties in a conflict. Avoiding (option A) means withdrawing from the conflict. Accommodating (option B) involves one person giving in to the other's needs. Competing (option C) is an approach where one party seeks to win at the expense of the other. Compromising is often used when a perfect solution isn't possible but some resolution is needed."
+        },
+        {
+          "question": "In quality improvement, what does the PDSA cycle stand for?",
+          "options": [
+            "Prepare, Develop, Study, Apply",
+            "Plan, Do, Study, Act",
+            "Process, Develop, Standardize, Assess",
+            "Prepare, Document, Survey, Analyze"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PDSA stands for Plan, Do, Study, Act. It is a four-stage cycle for quality improvement: Plan (identify the change needed), Do (implement the change), Study (analyze the results), and Act (refine the change based on what was learned). Options A, C, and D are incorrect variations that do not represent the standard PDSA quality improvement framework developed by W. Edwards Deming."
+        },
+        {
+          "question": "What principle is being applied when a charge nurse assigns more experienced staff to care for the most complex patients?",
+          "options": [
+            "Autocratic leadership",
+            "Patient acuity-based staffing",
+            "Seniority-based assignment",
+            "Task-oriented leadership"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Patient acuity-based staffing is the principle being applied when patient assignments are made based on the complexity of patient needs matched to staff skill levels and experience. This approach prioritizes patient safety and appropriate care. Autocratic leadership (option A) refers to a directive leadership style. Seniority-based assignment (option C) would assign based on length of service alone, not skill matching. Task-oriented leadership (option D) focuses on completing tasks rather than matching patient needs to staff capabilities."
+        }
+      ]
+    },
+    {
+      "category": "Palliative Care & End-of-Life",
+      "questions": [
+        {
+          "question": "Which principle guides the use of opioids for pain management in palliative care?",
+          "options": [
+            "Opioids should be used only as a last resort after all other pain management options have failed",
+            "Opioids should be given only when pain becomes severe (8-10 on pain scale)",
+            "Opioids should be given by the clock (regular intervals) rather than on demand",
+            "Opioids should only be given intravenously for rapid relief"
+          ],
+          "correctAnswer": 2,
+          "explanation": "In palliative care, opioids should be given by the clock (at regular intervals) rather than on demand. This maintains steady blood levels of the medication and provides more effective pain control. Opioids are not a last resort in palliative care (option A) but are often essential for effective pain management. Waiting until pain is severe (option B) allows breakthrough pain and suffering. While IV administration (option D) may be used, the route depends on the patient's condition and preferences; oral routes are commonly used when possible."
+        },
+        {
+          "question": "When caring for a dying patient from a Pacific Island culture in New Zealand, which consideration is most important?",
+          "options": [
+            "Limiting the number of family members allowed at the bedside",
+            "Recognizing the importance of extended family (aiga/kāinga) involvement in care",
+            "Discouraging traditional practices to maintain a clinical environment",
+            "Ensuring all communication goes through the eldest male family member only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Recognizing the importance of extended family (aiga/kāinga) involvement in care is most important when caring for Pacific Island patients at end of life. Many Pacific cultures have strong family-centered values where extended family plays a crucial role in decision-making and care. Limiting family members (option A) would disrespect this cultural value. Discouraging traditional practices (option C) is culturally insensitive. While respecting family hierarchies is important, communication protocols vary among Pacific cultures and assuming all communication must go through the eldest male (option D) is an overgeneralization."
+        },
+        {
+          "question": "Which symptom management approach is most appropriate for terminal respiratory secretions ('death rattle')?",
+          "options": [
+            "Aggressive suctioning every 15-30 minutes",
+            "Administration of anticholinergic medications",
+            "Increasing oxygen flow to maximum levels",
+            "Elevating the head of the bed to 90 degrees"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Administration of anticholinergic medications (such as hyoscine butylbromide) is the most appropriate approach for managing terminal respiratory secretions. These medications reduce secretion production. Aggressive suctioning (option A) can be traumatic and is generally not recommended in end-of-life care. Increasing oxygen (option C) does not address the secretion issue and may not provide comfort. While positioning changes like head elevation (option D) may help somewhat, they are not as effective as pharmacological management of secretions."
+        },
+        {
+          "question": "What ethical principle is most directly related to the concept of advance care directives?",
+          "options": [
+            "Beneficence",
+            "Justice",
+            "Non-maleficence",
+            "Autonomy"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Autonomy, the right to self-determination, is the ethical principle most directly related to advance care directives. These documents allow individuals to express their healthcare preferences in advance, respecting their right to make decisions about their own care. While beneficence (doing good, option A), justice (fairness, option B), and non-maleficence (avoiding harm, option C) are all important ethical principles in palliative care, advance directives specifically uphold patient autonomy."
+        }
+      ]
+    },
+    {
+      "category": "Emergency & Critical Care Nursing",
+      "questions": [
+        {
+          "question": "In the ABCDE assessment approach, what does 'C' stand for?",
+          "options": [
+            "Cardiovascular",
+            "Circulation",
+            "Consciousness",
+            "Chest"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In the ABCDE assessment approach, 'C' stands for Circulation, which includes assessment of pulse, blood pressure, capillary refill, and signs of bleeding. 'A' stands for Airway, 'B' for Breathing, 'D' for Disability (neurological status), and 'E' for Exposure/Environment. While 'Cardiovascular' (option A) is related, 'Circulation' is the specific term used in this framework. 'Consciousness' (option C) is assessed under 'D' for Disability. 'Chest' (option D) is assessed under 'B' for Breathing."
+        },
+        {
+            "question": "Which medication should be immediately available during a cardiac arrest response?",
+            "options": [
+              "Metoprolol",
+              "Furosemide",
+              "Epinephrine (Adrenaline)",
+              "Insulin"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Epinephrine (Adrenaline) should be immediately available during a cardiac arrest as it is a first-line medication in cardiac arrest protocols (ACLS guidelines). It increases coronary and cerebral perfusion pressure during CPR. Metoprolol (option A) is a beta-blocker used for various cardiovascular conditions but not in cardiac arrest. Furosemide (option B) is a diuretic not used in immediate cardiac arrest management. Insulin (option D) is used for glycemic control and not indicated during cardiac arrest."
+          },
+          {
+            "question": "Which parameter in the Early Warning Score (EWS) system would trigger the highest score for a patient?",
+            "options": [
+              "Heart rate of 95 beats per minute",
+              "Respiratory rate of 28 breaths per minute",
+              "Oxygen saturation of 92% on room air",
+              "Blood pressure of 100/70 mmHg"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A respiratory rate of 28 breaths per minute would typically trigger the highest score in most Early Warning Score systems. Elevated respiratory rate is often one of the earliest indicators of deterioration. A heart rate of 95 (option A) is only slightly elevated and would receive a low score. Oxygen saturation of 92% (option C) would receive a moderate score. Blood pressure of 100/70 mmHg (option D) is within normal limits and would likely receive a score of zero in most EWS systems."
+          },
+          {
+            "question": "When triaging multiple casualties, which patient should receive attention first?",
+            "options": [
+              "A patient with an open femur fracture who is conscious and has stable vital signs",
+              "A patient with chest pain who is conscious and breathing normally",
+              "A patient with an obstructed airway who is unconscious",
+              "A patient with multiple minor lacerations who is anxious"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A patient with an obstructed airway who is unconscious should receive attention first, following the 'ABC' (Airway, Breathing, Circulation) priority. Airway obstruction is an immediate life threat. A patient with an open femur fracture but stable vital signs (option A) is a priority but less urgent than an airway issue. A patient with chest pain but normal breathing (option B) requires urgent assessment but after immediate life threats. A patient with minor lacerations (option D) would be classified as non-urgent in triage systems."
+          },
+          {
+            "question": "What is the correct compression to ventilation ratio when performing CPR on an adult in a hospital setting with two rescuers and an advanced airway in place?",
+            "options": [
+              "15:2",
+              "30:2",
+              "Continuous compressions at a rate of 100-120/min with 1 ventilation every 6 seconds",
+              "Continuous compressions at a rate of 100-120/min with 1 ventilation every 10 seconds"
+            ],
+            "correctAnswer": 2,
+            "explanation": "With an advanced airway in place during two-rescuer CPR, the correct approach is continuous compressions at a rate of 100-120 compressions per minute with 1 ventilation every 6 seconds (10 breaths per minute). The rescuers no longer need to pause compressions for ventilations when an advanced airway is in place. A 15:2 ratio (option A) is used for children with two rescuers when no advanced airway is present. A 30:2 ratio (option B) is used for adults with no advanced airway. Option D has the correct compression rate but an incorrect ventilation frequency."
+          }
+        ]
+      },
+      {
+        "category": "Legal Aspects of Nursing in NZ",
+        "questions": [
+          {
+            "question": "Under the Health Practitioners Competence Assurance Act (2003) in New Zealand, what is the primary purpose of setting scopes of practice?",
+            "options": [
+              "To limit professional advancement of nurses",
+              "To protect the public by ensuring healthcare providers work within their competence levels",
+              "To restrict nurses from performing certain procedures",
+              "To increase hospital efficiency through task specialization"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The primary purpose of setting scopes of practice under the Health Practitioners Competence Assurance Act (2003) is to protect the public by ensuring healthcare providers work within their areas of competence. Scopes of practice define the boundaries within which health practitioners are qualified and competent to practice. They are not designed to limit professional advancement (option A), though they do define boundaries of practice. While they may restrict certain procedures (option C), this is not the primary purpose but a consequence of ensuring safe practice. Increasing hospital efficiency (option D) is not the legislative intent."
+          },
+          {
+            "question": "What is the legal requirement for documenting patient care in New Zealand?",
+            "options": [
+              "Documentation is optional if verbal handover is comprehensive",
+              "Only significant adverse events must be documented",
+              "Documentation must be thorough, accurate, objective, and contemporaneous",
+              "Documentation is only required for complex procedures"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The legal requirement for documentation in New Zealand is that it must be thorough, accurate, objective, and contemporaneous (timely). Documentation is not optional (option A); it is a legal and professional requirement. All care must be documented, not just adverse events (option B). Documentation is required for all patient care, not just complex procedures (option D). Proper documentation is essential for continuity of care, legal protection, and accountability."
+          },
+          {
+            "question": "Under the Health and Disability Commissioner Act, what right allows patients to make informed choices and give informed consent?",
+            "options": [
+              "Right 3 - Dignity and Independence",
+              "Right 6 - Right to be Fully Informed",
+              "Right 7 - Right to Make an Informed Choice and Give Informed Consent",
+              "Right 10 - Right to Complain"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Right 7 of the Code of Health and Disability Services Consumers' Rights specifically addresses the right to make an informed choice and give informed consent. Right 3 (option A) focuses on respect for dignity and independence. Right 6 (option B) addresses the right to be fully informed, which is related to but separate from the right to make choices and give consent. Right 10 (option D) addresses the right to complain, which is unrelated to informed consent."
+          },
+          {
+            "question": "Under New Zealand law, when is it mandatory for a nurse to report suspected child abuse?",
+            "options": [
+              "Only if directed by a supervising physician",
+              "Only if there is absolute proof of abuse",
+              "When there are reasonable grounds to believe abuse is occurring",
+              "Only if requested by the police"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In New Zealand, nurses must report suspected child abuse when there are reasonable grounds to believe abuse is occurring. While New Zealand doesn't have mandatory reporting laws in the same way as some countries, health professionals have professional and ethical obligations to report concerns about child safety. Waiting for direction from a physician (option A), requiring absolute proof (option B), or waiting for police requests (option D) could place children at continued risk and does not fulfill professional responsibilities under the Vulnerable Children Act 2014 and professional practice standards."
+          }
+        ]
+      },
+      {
+        "category": "Professional Development",
+        "questions": [
+          {
+            "question": "According to the Nursing Council of New Zealand, how often must nurses complete their professional development and recertification requirements?",
+            "options": [
+              "Every 6 months",
+              "Annually",
+              "Every 3 years",
+              "Every 5 years"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to the Nursing Council of New Zealand, nurses must complete their professional development and recertification requirements annually when they apply for their annual practicing certificate. The requirements include practice hours, professional development hours, and professional development activities. The 6-month period (option A) is too frequent. While some components may span 3 years (option C), the certification itself is annual. The 5-year period (option D) is too infrequent for maintaining current competence."
+          },
+          {
+            "question": "Which of the following best describes reflective practice in nursing?",
+            "options": [
+              "Reviewing patient feedback forms to improve hospital services",
+              "Following evidence-based protocols without deviation",
+              "Critically analyzing one's own experiences to improve future practice",
+              "Documenting all patient care activities in detail"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Reflective practice in nursing involves critically analyzing one's own experiences, actions, and decisions to improve future practice. It is a process of continuous learning from experience. While reviewing patient feedback (option A) can be valuable, it is not reflective practice. Following protocols without deviation (option B) is actually contrary to reflective practice, which involves critical thinking. Detailed documentation (option D) is important but distinct from the reflective process."
+          },
+          {
+            "question": "Which of the following is an example of a professional boundary violation in nursing?",
+            "options": [
+              "Providing a patient with education about their medication",
+              "Accepting a small handmade thank-you card from a patient",
+              "Lending money to a patient's family",
+              "Referring a patient to another healthcare provider for specialized care"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Lending money to a patient's family is an example of a professional boundary violation as it creates a dual relationship (professional and financial) that can compromise objective care. Providing medication education (option A) is within the nursing role. Accepting a small token of appreciation like a handmade card (option B) is generally acceptable. Referring a patient for specialized care (option D) is appropriate professional practice and collaboration."
+          },
+          {
+            "question": "Which self-care strategy is most effective for preventing compassion fatigue in nursing?",
+            "options": [
+              "Working additional shifts to increase income",
+              "Avoiding emotional involvement with patients",
+              "Regular debriefing and reflective practice",
+              "Taking over-the-counter sleep aids to ensure adequate rest"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Regular debriefing and reflective practice are among the most effective strategies for preventing compassion fatigue as they provide opportunities to process emotional responses and develop resilience. Working additional shifts (option A) increases fatigue and burnout risk. Avoiding emotional involvement (option B) can lead to depersonalization and reduced job satisfaction. Relying on sleep aids (option D) does not address the underlying issues and may create dependency or side effects."
+          }
+        ]
+      },
+      {
+        "category": "Nursing Informatics & Technology",
+        "questions": [
+          {
+            "question": "Under the Health Information Privacy Code in New Zealand, what is required when sending patient information via email?",
+            "options": [
+              "Patient information can be freely shared via any email system",
+              "Secure, encrypted systems must be used and only essential information included",
+              "All emails containing patient information must be printed and added to paper charts",
+              "Email communication about patients is prohibited in all circumstances"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When sending patient information via email in New Zealand, secure, encrypted systems must be used and only essential information should be included to maintain privacy and comply with the Health Information Privacy Code. Patient information cannot be freely shared via any email system (option A) as this would violate privacy requirements. There is no requirement to print all emails for paper charts (option C), especially as many facilities use electronic records. Email communication about patients is not prohibited (option D) but must follow proper security protocols."
+          },
+          {
+            "question": "Which of the following is a potential benefit of electronic health records (EHRs) in nursing practice?",
+            "options": [
+              "Elimination of all medication errors",
+              "Reduced need for critical thinking skills",
+              "Improved legibility and accessibility of patient information",
+              "Guaranteed increased time for direct patient care"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Improved legibility and accessibility of patient information is a well-established benefit of electronic health records. EHRs do not eliminate all medication errors (option A), though they may reduce some types with features like drug interaction alerts. EHRs require continued critical thinking (option B), not less, as nurses must interpret and act on information. While EHRs may improve efficiency, they don't guarantee increased time for direct patient care (option D), as they can sometimes add documentation burden."
+          },
+          {
+            "question": "In telehealth nursing practice, which of the following is most important to establish at the beginning of a virtual consultation?",
+            "options": [
+              "The patient's insurance details",
+              "The patient's identity and location in case emergency services are needed",
+              "The brand of device the patient is using",
+              "The patient's experience with previous telehealth consultations"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Establishing the patient's identity and current location is most important at the beginning of a telehealth consultation, as this ensures you're treating the right person and allows for emergency services to be dispatched if needed during the consultation. While insurance details (option A) may be important administratively, they are not the most critical for immediate clinical care. The device brand (option C) is generally irrelevant unless there are technical issues. Previous telehealth experience (option D) may be helpful to know but is not as critical as identity and location."
+          },
+          {
+            "question": "Which statement best describes the concept of 'digital literacy' in nursing?",
+            "options": [
+              "The ability to use a computer to access email",
+              "The ability to maintain a professional presence on social media",
+              "The ability to effectively find, evaluate, use, and communicate information using digital technology",
+              "The ability to repair common electronic devices used in healthcare"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Digital literacy in nursing involves the ability to effectively find, evaluate, use, and communicate information using digital technology. It encompasses a broad range of skills beyond basic email use (option A), including critical evaluation of digital information, use of clinical information systems, and integration of technology into practice. While professional social media use (option B) may be one aspect of digital literacy, it's only a small part. Repairing electronic devices (option D) is not typically considered part of nursing digital literacy."
+          }
+        ]
+      },
+      {
+        "category": "Chronic Disease Management",
+        "questions": [
+          {
+            "question": "In Type 2 diabetes management, what is the recommended frequency for HbA1c testing for a patient with stable glycemic control?",
+            "options": [
+              "Weekly",
+              "Monthly",
+              "Every 3-6 months",
+              "Yearly"
+            ],
+            "correctAnswer": 2,
+            "explanation": "For patients with Type 2 diabetes who have stable glycemic control, HbA1c testing is recommended every 3-6 months. This timeframe provides a balance between monitoring long-term glycemic control while not overtesting. Weekly testing (option A) would be excessive and unnecessary given that HbA1c reflects average blood glucose over approximately 3 months. Monthly testing (option B) is also more frequent than necessary for stable patients. Yearly testing (option D) would be too infrequent to detect changes in control that require intervention."
+          },
+          {
+            "question": "Which nursing intervention is most appropriate for a patient with heart failure experiencing acute dyspnea?",
+            "options": [
+              "Encouraging increased fluid intake",
+              "Positioning the patient supine",
+              "Positioning the patient upright with legs dependent",
+              "Encouraging moderate exercise"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Positioning the patient upright with legs dependent (dangling) is most appropriate for a heart failure patient with acute dyspnea. This position reduces venous return to the heart, decreases pulmonary congestion, and improves breathing. Encouraging increased fluid intake (option A) would worsen fluid overload in heart failure. Positioning the patient supine (option B) would increase venous return to the heart, potentially worsening congestion and dyspnea. Encouraging exercise during acute dyspnea (option D) could increase oxygen demand and worsen symptoms."
+          },
+          {
+            "question": "Which education topic is most important for a patient newly diagnosed with chronic obstructive pulmonary disease (COPD)?",
+            "options": [
+              "Palliative care options",
+              "Smoking cessation strategies",
+              "Long-term oxygen therapy requirements",
+              "End-of-life preferences"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Smoking cessation strategies are the most important education topic for a newly diagnosed COPD patient, as smoking cessation is the single most effective intervention to slow disease progression. While palliative care (option A) and end-of-life preferences (option D) may become relevant later in the disease course, they are not typically priority education topics at initial diagnosis. Long-term oxygen therapy (option C) is not indicated for all COPD patients and would only be discussed if clinically appropriate based on assessment."
+          },
+          {
+            "question": "Which assessment finding would indicate worsening of a patient's chronic kidney disease?",
+            "options": [
+              "Increased urine output",
+              "Decreased serum creatinine levels",
+              "Increased blood pressure",
+              "Decreased peripheral edema"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Increased blood pressure often indicates worsening chronic kidney disease, as the kidneys play a crucial role in blood pressure regulation. Hypertension is both a cause and consequence of kidney damage. Increased urine output (option A) typically indicates improved kidney function, not worsening. Decreased serum creatinine (option B) suggests improved kidney function (creatinine rises as kidney function declines). Decreased peripheral edema (option D) would suggest improved fluid balance, not worsening kidney function."
+          }
+        ]
+      },
+      {
+        "category": "Specialized Patient Populations",
+        "questions": [
+          {
+            "question": "Which of the following is a priority nursing intervention for preventing falls in elderly patients?",
+            "options": [
+              "Administering sedatives to prevent wandering",
+              "Keeping the patient in bed at all times",
+              "Regular toileting schedule and responding promptly to call bells",
+              "Using restraints during all transfers"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Regular toileting schedules and responding promptly to call bells are priority interventions for preventing falls in elderly patients, as they address common reasons for unassisted mobility attempts (toileting needs) and reduce risky behavior. Administering sedatives (option A) increases fall risk by causing drowsiness and impaired balance. Keeping patients in bed constantly (option B) leads to deconditioning, reduced muscle strength, and increased fall risk when the patient does get up. Using restraints (option D) is not recommended as a fall prevention strategy as it violates autonomy and can lead to increased agitation and injury."
+          },
+          {
+            "question": "What is the most appropriate communication approach when caring for a patient with hearing impairment?",
+            "options": [
+              "Speaking very loudly at all times",
+              "Facing the patient, speaking clearly at a moderate pace, and reducing background noise",
+              "Writing all communication on paper to avoid misunderstandings",
+              "Communicating primarily through family members to ensure accuracy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Facing the patient, speaking clearly at a moderate pace, and reducing background noise is the most appropriate approach for communicating with hearing-impaired patients. This allows the patient to potentially lip-read, better hear what is being said without distortion, and maintains dignity. Speaking very loudly (option A) can distort sounds and be perceived as shouting. Writing all communication (option C) may be helpful in some cases but is impractical for all interactions and excludes patients with literacy challenges. Communicating primarily through family members (option D) disempowers the patient and violates their autonomy."
+          },
+          {
+            "question": "When caring for a recent refugee patient in New Zealand, which consideration is most important?",
+            "options": [
+              "Assuming all refugees have the same cultural practices",
+              "Avoiding discussions about past experiences to prevent trauma",
+              "Using professional interpreters rather than family members when language barriers exist",
+              "Making decisions for the patient to reduce their stress levels"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Using professional interpreters rather than family members is most important when language barriers exist with refugee patients. Professional interpreters ensure accurate communication, patient privacy, and avoid placing family members (especially children) in inappropriate roles. Assuming all refugees share cultural practices (option A) ignores the diversity among refugee populations. While sensitivity is needed, completely avoiding discussions about past experiences (option B) may prevent important health information from being shared. Making decisions for patients (option D) violates autonomy and may replicate power dynamics that refugees have previously experienced."
+          },
+          {
+            "question": "Which nursing intervention is particularly important when caring for patients in rural New Zealand communities?",
+            "options": [
+              "Always recommending relocation to urban areas for better care",
+              "Considering transport and distance challenges when planning follow-up care",
+              "Assuming all rural patients have support networks of family and neighbors",
+              "Providing only basic care since specialized services are unavailable"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Considering transport and distance challenges when planning follow-up care is particularly important for rural patients in New Zealand. This recognizes the practical barriers to accessing healthcare while finding solutions that work within these constraints. Recommending relocation to urban areas (option A) is unrealistic and ignores attachments to community and place. Assuming all rural patients have support networks (option C) may overlook social isolation that can exist in rural areas. Providing only basic care (option D) perpetuates healthcare inequity and fails to consider telehealth options and visiting specialist services."
+          }
+        ]
+      }
+    ]
